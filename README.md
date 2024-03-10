@@ -1,8 +1,8 @@
-# 🥞 Pancake Frontend
+# 🥞 Nibi Dex Frontend
 
 <p align="center">
-  <a href="https://pancakeswap.finance">
-      <img src="https://pancakeswap.finance/logo.png" height="128">
+  <a href="https://nibidex.com">
+      <img src="https://nibidex.com/logo.png" height="128">
   </a>
 </p>
 
